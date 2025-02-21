@@ -1,0 +1,10 @@
+C:\projects\C#\PizzaApp\PizzaApp\obj\Debug\PizzaApp.csproj.AssemblyReference.cache
+C:\projects\C#\PizzaApp\PizzaApp\obj\Debug\PizzaApp.Form1.resources
+C:\projects\C#\PizzaApp\PizzaApp\obj\Debug\PizzaApp.Properties.Resources.resources
+C:\projects\C#\PizzaApp\PizzaApp\obj\Debug\PizzaApp.csproj.GenerateResource.cache
+C:\projects\C#\PizzaApp\PizzaApp\obj\Debug\PizzaApp.csproj.CoreCompileInputs.cache
+C:\projects\C#\PizzaApp\PizzaApp\bin\Debug\PizzaApp.exe.config
+C:\projects\C#\PizzaApp\PizzaApp\bin\Debug\PizzaApp.exe
+C:\projects\C#\PizzaApp\PizzaApp\bin\Debug\PizzaApp.pdb
+C:\projects\C#\PizzaApp\PizzaApp\obj\Debug\PizzaApp.exe
+C:\projects\C#\PizzaApp\PizzaApp\obj\Debug\PizzaApp.pdb
