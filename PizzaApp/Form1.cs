@@ -38,7 +38,7 @@ namespace PizzaApp
 
             Label authorsLabel = new Label
             {
-                Text = "Създадено от: Иван Петров и Мария Димитрова",
+                Text = "Създадено от: Крум Иванов Настев 11Дклас №12",
                 Font = new Font("Arial", 12, FontStyle.Italic),
                 AutoSize = true,
                 Location = new Point(20, 60)
